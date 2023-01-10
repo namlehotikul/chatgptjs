@@ -1,1 +1,1 @@
-# chatgptjs
+# Folder For JavaScript ChatGPT Project Files
